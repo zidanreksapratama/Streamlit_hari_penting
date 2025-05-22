@@ -1,0 +1,9 @@
+streamlit
+schedule
+requests
+beautifulsoup4
+selenium
+pymongo
+matplotlib
+seaborn
+pandas
